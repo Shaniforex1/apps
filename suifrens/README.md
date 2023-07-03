@@ -22,6 +22,6 @@ suifrens = { git = "https://github.com/MystenLabs/apps.git", subdir = "suifrens/
 accessories = { git = "https://github.com/MystenLabs/apps.git", subdir = "suifrens/accessories", rev = "testnet" }
 ```
 
-See the [examples](../examples/) for sample applications using SuiFrens.
+See the [examples](../examples/) for sample applications using *SuiFrens*.
 
 > *For **mainnet**, use the `rev = "mainnet"` setting*
